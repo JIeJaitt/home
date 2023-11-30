@@ -1,8 +1,33 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "blogHexo",
+    "link": "https://blog.jiejaitt.tech/"
+  },
+  {
+    "icon": "Blog",
+    "name": "blogTypecho",
+    "link": "https://jiejaitt.now.cc/"
+  },
+  {
+    "icon": "Blog",
+    "name": "blogNotion",
+    "link": "https://jiejaitt.now.cc/"
+  },
+  {
+    "icon": "Blog",
+    "name": "blogXlog",
+    "link": "https://jiejaitt.xlog.app/"
+  },
+  {
+    "icon": "Blog",
+    "name": "blogVuepress",
+    "link": "https://jiejaitt.tech/"
+  },
+  {
+    "icon": "Blog",
+    "name": "blogBearblog",
+    "link": "https://jiejaitt.bearblog.dev/"
   },
   {
     "icon": "Cloud",
